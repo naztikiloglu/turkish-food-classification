@@ -1,0 +1,10 @@
+# Trained models (too large for GitHub)
+*.keras
+*.h5
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
