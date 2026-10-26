@@ -49,11 +49,11 @@ Accuracy on the test set (1,147 images the models never saw during training):
 
 Random test examples:
 
-![Grad-CAM examples](images/gradcam_examples.png)
+![Grad-CAM examples](gradcam_examples.png)
 
 Misclassified test examples:
 
-![Grad-CAM mistakes](images/gradcam_mistakes.png)
+![Grad-CAM mistakes](gradcam_mistakes.png)
 
 The errors were inspected with Grad-CAM:
 
